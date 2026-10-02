@@ -1,6 +1,6 @@
 # Garima Profile
 
-A simple personal portfolio/profile webpage built with HTML to showcase skills, experience, education, and social links.
+A simple personal portfolio website built with HTML to showcase skills, experience, education, and social links.
 
 ## Overview
 
